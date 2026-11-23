@@ -1,0 +1,12 @@
+{
+  "id": "case_02",
+  "title": "AI Agent / RAG Engineer",
+  "candidate_name": "Samantha Chen",
+  "resume_text": "Samantha Chen\nEmail: sam@email.com\nEducation: M.S. in Data Science, UC San Diego\nSkills: Python, Sentence-Transformers, PyTorch, ChromaDB, OpenAI API, FastAPI\nExperience:\nProject: Semantic Document Q&A\n- Built a retrieval-augmented generation (RAG) system indexing 500 PDF research papers.\n- Utilized all-MiniLM-L6-v2 embeddings with cosine similarity search in ChromaDB.\n- Exposed search interface via FastAPI backend with response streaming.",
+  "jd_text": "Role: AI Engineer (RAG & Tool-Calling)\nMust-Have Requirements:\n- Deep practical experience with RAG pipelines and vector embeddings (sentence-transformers).\n- Strong Python programming with experience in LLM tool calling and structured outputs.\n- Knowledge of vector databases (ChromaDB, Pinecone, or pgvector).\nNice-to-Have:\n- Experience measuring hallucination rates and evals.",
+  "expected_must_haves": [
+    "RAG pipelines and vector embeddings",
+    "Python programming with LLM tool calling",
+    "vector databases (ChromaDB, Pinecone, or pgvector)"
+  ]
+}

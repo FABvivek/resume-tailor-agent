@@ -1,0 +1,16 @@
+AI Career Startup - Software Engineer Intern (Backend / AI)
+
+About the Role:
+We are building autonomous agents that coach job seekers through every stage of their career. We are seeking an ambitious Software Engineer Intern to build core agent pipelines, RAG systems, and resilient backends.
+
+Must-Have Requirements:
+- Strong proficiency in Python (3.10+) with hands-on experience building backend APIs (FastAPI or Flask).
+- Practical experience with LLM tool-calling, prompt engineering, and structured outputs (Pydantic).
+- Solid knowledge of relational databases and SQL (PostgreSQL or SQLite), including schema design.
+- Hands-on experience with Docker and containerized deployment.
+- Familiarity with writing comprehensive unit and integration tests using pytest.
+
+Nice-to-Have Requirements:
+- Experience building RAG pipelines, vector embeddings (sentence-transformers), or semantic search.
+- Knowledge of agent evaluation methodologies, hallucinations, and fact-checking.
+- Familiarity with Streamlit or building rapid prototypes.

@@ -1,0 +1,12 @@
+{
+  "id": "case_04",
+  "title": "Fullstack AI Engineer",
+  "candidate_name": "Elena Rostova",
+  "resume_text": "Elena Rostova\nEmail: elena@email.com\nEducation: B.S. in Computer Science, Georgia Tech\nSkills: TypeScript, React, Python, FastAPI, SQLite, TailwindCSS\nExperience:\nProject: AI Flashcard Generator\n- Created fullstack web application using React frontend and FastAPI backend.\n- Integrated local LLM endpoints to parse textbook markdown notes into flashcards.\n- Persisted user study decks and review history in SQLite.",
+  "jd_text": "Role: Fullstack AI Engineer\nMust-Have Requirements:\n- Modern web frontend experience with TypeScript and React.\n- Backend API development with Python (FastAPI).\n- Experience integrating LLM APIs and prompt engineering.\nNice-to-Have:\n- Relational database modeling with SQLite or PostgreSQL.",
+  "expected_must_haves": [
+    "TypeScript and React",
+    "Backend API development with Python (FastAPI)",
+    "LLM APIs and prompt engineering"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "case_01",
+  "title": "Backend SWE Intern (Python / FastAPI / Docker)",
+  "candidate_name": "Jordan Lee",
+  "resume_text": "Jordan Lee\nEmail: jordan@email.com\nEducation: B.S. in Computer Science, University of Illinois\nSkills: Python, FastAPI, SQLite, Git, Docker, pytest\nExperience:\nProject: Microservices Blog Engine\n- Developed asynchronous REST API endpoints using FastAPI and SQLite.\n- Wrote unit tests achieving 85% code coverage using pytest.\n- Packaged application into Docker images and deployed locally via docker-compose.",
+  "jd_text": "Role: Backend Software Engineer Intern\nMust-Have Requirements:\n- Proficiency in Python 3.10+ and FastAPI or Flask.\n- Hands-on experience with SQL databases (PostgreSQL or SQLite).\n- Containerization experience with Docker.\n- Automated testing using pytest.\nNice-to-Have:\n- Experience with Redis caching or message queues.",
+  "expected_must_haves": [
+    "Python 3.10+ and FastAPI or Flask",
+    "SQL databases (PostgreSQL or SQLite)",
+    "Docker containerization",
+    "pytest automated testing"
+  ]
+}

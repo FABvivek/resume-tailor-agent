@@ -1,0 +1,13 @@
+{
+  "id": "case_05",
+  "title": "Junior MLOps / Model Serving Engineer",
+  "candidate_name": "David Kim",
+  "resume_text": "David Kim\nEmail: dkim@email.com\nEducation: B.S. in Computer Engineering, University of Michigan\nSkills: Python, PyTorch, Docker, GitHub Actions, Linux, pytest\nExperience:\nProject: Automated Model Deployment Pipeline\n- Built GitHub Actions CI/CD workflow to run unit tests and linting on every commit.\n- Packaged PyTorch vision model into minimal Docker container with multi-stage build.\n- Benchmarked inference latency across CPU instances using pytest-benchmark.",
+  "jd_text": "Role: Junior MLOps Engineer\nMust-Have Requirements:\n- Automated CI/CD experience with GitHub Actions or Jenkins.\n- Docker containerization for machine learning workloads.\n- Python unit testing and integration testing using pytest.\n- Basic knowledge of PyTorch or TensorFlow model inference.\nNice-to-Have:\n- Experience with Kubernetes or model monitoring.",
+  "expected_must_haves": [
+    "Automated CI/CD experience with GitHub Actions",
+    "Docker containerization",
+    "Python unit testing and integration testing using pytest",
+    "PyTorch or TensorFlow model inference"
+  ]
+}

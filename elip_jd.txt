@@ -1,0 +1,29 @@
+Software Engineer Intern
+Elip, a YC W25 startup (Gurugram or Bengaluru, On-site or Remote)
+
+About the Role:
+Join Elip, a YC W25 startup, and build an AI career agent used by thousands of job seekers. It's a 6-month internship with a PPO opportunity, in Gurugram or Bengaluru (on-site or remote), paying ₹75k a month during the internship and ₹1.5L a month on conversion.
+You'd build the agents, recommendations and semantic search powering an AI career product used by students and early-career people.
+
+What you'd do:
+- Build LLM-powered agents that use tools and remember context
+- Match people to jobs through retrieval, ranking and personalisation
+- Run semantic search over a large, constantly changing jobs index
+- Evaluate and improve LLM output quality
+- Ship backend features to production and keep them reliable
+
+They'll screen for:
+- Hands-on LLM work with prompting, tool use and structured outputs
+- Ability to pick up new tools quickly from their docs
+
+Good to have:
+- Built a recommender or search system end to end
+- Worked with RAG pipelines or LLM evals
+- Have a side project live and used by real people
+- Some experience with Docker or cloud deploys
+
+Skills they want:
+- LLMs and agents
+- Python backends
+- SQL and APIs
+- Embeddings

@@ -1,0 +1,12 @@
+{
+  "id": "case_03",
+  "title": "Data Infrastructure Engineer Intern",
+  "candidate_name": "Marcus Vance",
+  "resume_text": "Marcus Vance\nEmail: marcus@email.com\nEducation: B.S. in Software Engineering, Purdue University\nSkills: Python, PostgreSQL, Redis, Bash, Linux, Git\nExperience:\nProject: Distributed Event Consumer\n- Implemented real-time event consumer reading from Redis pub/sub streams.\n- Designed relational schemas and indexing in PostgreSQL for high throughput.\n- Wrote Bash deployment scripts on Ubuntu Linux instances.",
+  "jd_text": "Role: Data Infrastructure Intern\nMust-Have Requirements:\n- Strong SQL proficiency and relational database design (PostgreSQL).\n- Experience with in-memory caching or message queues (Redis or Kafka).\n- Solid fundamentals in Linux operating systems and Bash scripting.\nNice-to-Have:\n- Experience with Docker and CI/CD pipelines.",
+  "expected_must_haves": [
+    "SQL proficiency and relational database design (PostgreSQL)",
+    "in-memory caching or message queues (Redis or Kafka)",
+    "Linux operating systems and Bash scripting"
+  ]
+}
